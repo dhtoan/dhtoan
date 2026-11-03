@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Do Huy Toan — Founder and U.S. business owner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf8f3"/>
+      <stop offset="1" stop-color="#f1ebe1"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#d9cfc0"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="760" y="0" width="440" height="300" fill="url(#dots)" opacity="0.7"/>
+  <rect x="72" y="78" width="6" height="144" rx="3" fill="#c2410c"/>
+  <text x="104" y="128" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#1c1917" letter-spacing="-1">Do Huy Toan</text>
+  <text x="106" y="172" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#44403c">Founder &amp; U.S. Business Owner</text>
+  <text x="106" y="206" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#78716c">Technology, AI &amp; Fashion Entrepreneur  ·  Software, E-Commerce &amp; Digital Innovation</text>
+  <text x="106" y="240" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#a8a29e" letter-spacing="2">DELAWARE, USA</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#a8a29e">
+    <text x="1010" y="110">dhtoan</text>
+    <text x="1010" y="140" fill="#c2410c">● building</text>
+  </g>
+</svg>
