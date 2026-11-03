@@ -45,8 +45,8 @@ The Dokey keyboard on Android: Telex and VNI, Material You, 22 themes, a one-han
 <tr>
 <td width="50%" valign="top">
 
-**[AunoStudio](https://github.com/dhtoan/AunoStudio)** · TypeScript<br>
-A self-hosted studio for editable video, motion graphics and social publishing, with workspace collaboration.
+**[dopost](https://github.com/dhtoan/dopost)** · TypeScript · Go<br>
+A self-hosted workspace to create, edit, schedule and publish social posts and videos, with collaboration. Built on OpenPost (AGPL-3.0).
 
 </td>
 <td width="50%" valign="top">
