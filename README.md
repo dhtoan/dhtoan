@@ -1,7 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Do Huy Toan — Founder & U.S. Business Owner. Technology, AI & Fashion Entrepreneur. Software, E-Commerce & Digital Innovation." src="assets/banner-light.svg" width="100%">
-</picture>
+<h1 align="center">Do Huy Toan</h1>
+
+<p align="center">
+  <b>Founder &amp; U.S. Business Owner</b><br>
+  Technology, AI &amp; Fashion Entrepreneur · Software, E-Commerce &amp; Digital Innovation<br>
+  <sub>Delaware, USA</sub>
+</p>
 
 <p align="center">
   <a href="https://dhtoan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-dhtoan.github.io-1c1917?style=flat-square"></a>
@@ -11,6 +14,8 @@
 </p>
 
 ### About
+
+**Do Huy Toan** (Vietnamese: Đỗ Huy Toàn) is a Vietnamese entrepreneur and the founder and owner of a business in the United States, based in Delaware. He works in technology, AI and fashion, with a focus on software, e-commerce and digital innovation.
 
 I build software and run online businesses in the United States, working where technology, e-commerce and fashion meet. Most of what I make starts as a tool I need myself: a Vietnamese keyboard that does not drop letters, a studio for producing media, assistants that take routine work off a small team.
 
